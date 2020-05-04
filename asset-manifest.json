@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-github-deploy-boilerplate-gh-pages/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-github-deploy-boilerplate-gh-pages/static/js/main.61084923.chunk.js",
+    "main.js.map": "/react-github-deploy-boilerplate-gh-pages/static/js/main.61084923.chunk.js.map",
+    "runtime-main.js": "/react-github-deploy-boilerplate-gh-pages/static/js/runtime-main.fca7e08e.js",
+    "runtime-main.js.map": "/react-github-deploy-boilerplate-gh-pages/static/js/runtime-main.fca7e08e.js.map",
+    "static/js/2.feda3f98.chunk.js": "/react-github-deploy-boilerplate-gh-pages/static/js/2.feda3f98.chunk.js",
+    "static/js/2.feda3f98.chunk.js.map": "/react-github-deploy-boilerplate-gh-pages/static/js/2.feda3f98.chunk.js.map",
+    "index.html": "/react-github-deploy-boilerplate-gh-pages/index.html",
+    "precache-manifest.4516ce8c975e12029dc01e55f5a65225.js": "/react-github-deploy-boilerplate-gh-pages/precache-manifest.4516ce8c975e12029dc01e55f5a65225.js",
+    "service-worker.js": "/react-github-deploy-boilerplate-gh-pages/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react-github-deploy-boilerplate-gh-pages/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.feda3f98.chunk.js.LICENSE.txt": "/react-github-deploy-boilerplate-gh-pages/static/js/2.feda3f98.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-github-deploy-boilerplate-gh-pages/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fca7e08e.js",
+    "static/js/2.feda3f98.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.61084923.chunk.js"
+  ]
+}
